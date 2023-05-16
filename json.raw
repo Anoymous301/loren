@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "name": "Loren Pacuribot",
+      "age": 21,
+      "quote": "admajorem dei gloria,"
+    }
+    ],
+  "section": [
+    {
+      "section": "BSIT - 3C",
+      "code": "T239",
+      "email": "2001105388@student.buksu.edu.ph"
+    }
+  ]
+}
